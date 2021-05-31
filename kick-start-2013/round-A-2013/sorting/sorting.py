@@ -28,4 +28,3 @@ for _ in range(t):
             a[i] = odd[k]
             k += 1
     print(f"Case #{_+1}: {a}")
-    print('hello world')
